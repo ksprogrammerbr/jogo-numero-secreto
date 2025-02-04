@@ -1,4 +1,4 @@
-**🎯 Jogo do Número Secreto**
+## **🎯 Jogo do Número Secreto**
 
 Bem-vindo ao repositório do **Jogo do Número Secreto**! Este é um jogo interativo, simples e divertido, onde você deve adivinhar um **número secreto** escolhido aleatoriamente entre **1 e 20**. 🕵️‍♂️
 

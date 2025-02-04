@@ -52,7 +52,7 @@ cd jogo-do-numero-secreto
 
 ## 📷 **Imagem do Jogo**
 
-![image](https://github.com/user-attachments/assets/4b030d8a-6d29-4298-a6f4-8b750060cc4a)
+![image](https://github.com/user-attachments/assets/e3245843-ef16-463a-9c76-d1014ab1ee38)
 
 ---
 

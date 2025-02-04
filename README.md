@@ -38,8 +38,7 @@ Para rodar o jogo em sua máquina, siga os passos abaixo:
 
 ### 1️⃣ **Clone este repositório:**
 ```bash
-git clone https://github.com/seu-usuario/jogo-do-numero-secreto.git
-```
+git clone [https://github.com/ksprogrammerbr/jogo-numero-secreto.git]
 
 ### 2️⃣ **Navegue até o diretório do projeto:**
 ```bash

@@ -1,4 +1,4 @@
-## **🎯 Jogo do Número Secreto**
+**🎯 Jogo do Número Secreto**
 
 Bem-vindo ao repositório do **Jogo do Número Secreto**! Este é um jogo interativo, simples e divertido, onde você deve adivinhar um **número secreto** escolhido aleatoriamente entre **1 e 20**. 🕵️‍♂️
 
@@ -38,7 +38,8 @@ Para rodar o jogo em sua máquina, siga os passos abaixo:
 
 ### 1️⃣ **Clone este repositório:**
 ```bash
-git clone [https://github.com/ksprogrammerbr/jogo-numero-secreto.git]
+git clone https://github.com/ksprogrammerbr/jogo-numero-secreto.git
+```
 
 ### 2️⃣ **Navegue até o diretório do projeto:**
 ```bash
@@ -66,4 +67,9 @@ Sinta-se à vontade para contribuir com melhorias ou correções!
 ## 📜 **Licença**
 
 Este projeto é de **código aberto** e pode ser utilizado e modificado livremente. 🚀
+
+
+
+
+
 
